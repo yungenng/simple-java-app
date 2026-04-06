@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Random change for SCM Poll");
+        System.out.println("New change for Jenkins Hook");
     }
 
     public String getMessage() {
